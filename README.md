@@ -3,16 +3,16 @@
 ### <div align="center">I'm Guilherme Zuchelli Felipetto</div>  
   
 
-- I'm currently learning and studing coding  
-  
+-I'm currently learning and studying coding.
 
-- I'm a junior full-stack  
-  
 
-- My favorite language is JavaScript
-  
+-I'm a junior full-stack developer.
 
-- I make code in VScode and OnlineGDB
+
+-My favorite language is JavaScript.
+
+
+-I write code in VS Code and OnlineGDB.
   
 
 <br/>  
