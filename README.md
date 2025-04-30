@@ -50,11 +50,6 @@ Meu portifólio
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
@@ -96,6 +91,11 @@ Meu portifólio
 
 <br/>  
 
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <br />
 
