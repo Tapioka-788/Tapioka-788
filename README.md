@@ -9,7 +9,10 @@
 - I'm a junior full-stack  
   
 
-- My favorite language is JavaScript  
+- My favorite language is JavaScript
+  
+
+- I make code in VScode and OnlineGDB
   
 
 <br/>  
