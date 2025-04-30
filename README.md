@@ -1,8 +1,6 @@
-# Tapiola-788
+# Tapioka-788
 
-Meu portifólio
-
-### <div align="center">I'm Guilherme Felipetto</div>  
+### <div align="center">I'm Guilherme Zuchelli Felipetto</div>  
   
 
 - I'm currently learning and studing coding  
