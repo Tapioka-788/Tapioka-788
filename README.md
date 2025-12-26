@@ -4,15 +4,6 @@
   
 
 -I'm currently learning and studying coding.
-
-
--I'm a junior full-stack developer.
-
-
--My favorite language is JavaScript.
-
-
--I write code in VS Code and OnlineGDB.
   
 
 <br/>  
