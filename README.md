@@ -3,8 +3,7 @@
 ### <div align="center">Hi, I'm Guilherme Zuchelli Felipetto 👋</div>
 
 - Software Engineering student at UTFPR.
-- Currently working at Consisa Sistemas Informática LTDA.
-- Passionate about software development and technology.
+- Nowadays working at Consisa Sistemas Informática LTDA.
 
 <br/>
 
@@ -22,6 +21,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 </a>
+<a href="https://code.angularjs.org/1.4.9/docs/" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="AngularJS 1.4.9" title="AngularJS 1.4.9" height="50" />
+</a>
+<br/>
+<sub>AngularJS 1.4.9</sub>
 </div>
 
 </td>
@@ -51,7 +55,10 @@
 ### Databases
 <div align="center">
 <a href="https://www.postgresql.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
+</a>
+<a href="https://dbeaver.io/" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver" height="50" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
@@ -90,7 +97,7 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tapioka-788&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tapioka-788&show_icons=true&count_private=true&hide_border=true" align="center" alt="Guilherme's GitHub stats" />
 </div>
 
 <br/>
